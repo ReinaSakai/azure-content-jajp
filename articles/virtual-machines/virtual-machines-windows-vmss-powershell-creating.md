@@ -174,9 +174,6 @@ $ipCfg = New-AzureRmVmssIPConfig -Name 'nic' `
 -LoadBalancerInboundNatPoolsId $actualLb.InboundNatPools[0].Id `
 -LoadBalancerBackendAddressPoolsId $actualLb.BackendAddressPools[0].Id `
 -SubnetId $subnetId;
-
-$ipCfg.LoadBalancerBackendAddressPools.Add($actualLb.BackendAddressPools[0].Id);
-$ipCfg.LoadBalancerInboundNatPools.Add($actualLb.InboundNatPools[0].Id);
 ```
 
 VMSS 構成の作成
