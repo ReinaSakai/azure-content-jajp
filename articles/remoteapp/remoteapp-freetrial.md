@@ -1,7 +1,7 @@
 
 <properties
-    pageTitle="Azure RemoteApp の 30 日間無料評価版 | Microsoft Azure"
-    description="Azure RemoteApp の 30 日間無料評価版をお試しください。"
+    pageTitle="Azure RemoteApp の 30 日間無料試用版 | Microsoft Azure"
+    description="Azure RemoteApp の 30 日間無料試用版をお試しください。"
     services="remoteapp"
     documentationCenter=""
     authors="lizap"
@@ -18,7 +18,7 @@
 
 
 
-# Azure RemoteApp の 30 日間無料評価版
+# Azure RemoteApp の 30 日間無料試用版
 
 > [AZURE.IMPORTANT]
 Azure RemoteApp の提供は終了しました。詳細については、[お知らせ](https://go.microsoft.com/fwlink/?linkid=821148)をご覧ください。
